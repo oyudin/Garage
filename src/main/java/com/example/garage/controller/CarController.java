@@ -1,7 +1,7 @@
-package com.example.garage2.controller;
+package com.example.garage.controller;
 
-import com.example.garage2.model.Car;
-import com.example.garage2.service.CarService;
+import com.example.garage.model.Car;
+import com.example.garage.service.CarService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

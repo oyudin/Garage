@@ -1,6 +1,6 @@
-package com.example.garage2.service;
+package com.example.garage.service;
 
-import com.example.garage2.model.Car;
+import com.example.garage.model.Car;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

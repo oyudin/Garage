@@ -1,4 +1,4 @@
-package com.example.garage2.model;
+package com.example.garage.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

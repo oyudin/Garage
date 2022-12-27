@@ -1,7 +1,7 @@
-package com.example.garage2.service;
+package com.example.garage.service;
 
-import com.example.garage2.model.Car;
-import com.example.garage2.model.Person;
+import com.example.garage.model.Car;
+import com.example.garage.model.Person;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

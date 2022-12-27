@@ -1,7 +1,7 @@
-package com.example.garage2.controller;
+package com.example.garage.controller;
 
-import com.example.garage2.model.Person;
-import com.example.garage2.service.PersonService;
+import com.example.garage.model.Person;
+import com.example.garage.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
